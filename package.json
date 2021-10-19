@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start": "nodemon index"
+  }
+}
